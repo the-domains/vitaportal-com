@@ -1,0 +1,28 @@
+name: vitaportal.com
+favicon: null
+layout_spectrum: 0.571368059143424
+typography_spectrum: 0.8184561829548329
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8274147042538971
+  lightness: 0.38846417027525604
+  saturation: 0.1299158784095198
+  rhythmicContrast: 0.4442187054082751
+purpose: []
